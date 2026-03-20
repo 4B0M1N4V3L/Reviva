@@ -2,7 +2,7 @@
 
 **"Transforming electronic waste into opportunities! Giving new life to forgotten hardware and providing guidance on proper disposal."**
 
-O **Reviva** é um ecossistema de economia circular e inclusão digital. Nosso objetivo é combater a obsolescência programada, resgatando computadores que seriam descartados (máquinas de 32 bits, laptops antigos e o hardware popularmente chamado de "PC da Xuxa") e transformando-os em ferramentas de estudo e trabalho funcionais.
+O **Reviva** é um ecossistema de economia circular e inclusão digital. Nosso objetivo é combater a obsolescência programada, resgatando computadores que seriam descartados inclusive máquinas de 32 bits, laptops antigos transformando-os em ferramentas de estudo e trabalho funcionais.
 
 ---
 
@@ -10,7 +10,7 @@ O **Reviva** é um ecossistema de economia circular e inclusão digital. Nosso o
 
 Acreditamos que o hardware funcional não deve ir para o aterro sanitário apenas porque o software se tornou pesado. O Reviva atua em três frentes:
 
-1.  **Recuperação (Revive):** Aplicamos customizações leves (MX Linux / Mint XFCE) com o **"Sabor Windows"**. O visual familiar reduz a barreira de aprendizado e traz conforto ao usuário leigo.
+1.  **Recuperação (Revive):** Aplicamos customizações leves (MX Linux / Mint XFCE/ Outros) com o **"SaBOR Windows"**. O visual familiar reduz a barreira de aprendizado e traz conforto ao usuário leigo.
 2.  **Educação & Descarte (E-waste):** Orientamos a comunidade sobre o que pode ser salvo e como descartar de forma ecológica o que não tem mais conserto.
 3.  **Inclusão Digital:** Facilitamos o acesso à tecnologia para quem não tem condições de comprar hardware novo, estendendo a vida útil do que já existe no planeta.
 
@@ -30,7 +30,7 @@ Para que o projeto seja autossustentável e continue salvando hardware do descar
 ## 🤝 Colabore com o Guia de E-Waste
 
 Este é um projeto aberto. Se você é desenvolvedor, técnico em eletrônica ou ativista ambiental, ajude-nos a:
-- Mapear pontos de coleta de lixo eletrônico.
+- Mapear pontos de coleta de lixo eletrônico e criar uma interface que indique o momento do descarte e o E-Waste mais próximo.
 - Melhorar os scripts de automação visual.
 - Traduzir a documentação para tornar o Reviva global.
 
